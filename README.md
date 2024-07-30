@@ -1,8 +1,8 @@
-# cRik11 Application Readme
+# crik11 Application Readme
 
 ## Introduction
 
-Welcome to cRik11, a revolutionary application where users can create teams for batting using cryptocurrencies. cRik11 utilizes the Mina Protocol for the contract backend, ensuring secure and efficient transactions.
+Welcome to crik11, a revolutionary application where users can create teams for batting using cryptocurrencies. crik11 utilizes the Mina Protocol for the contract backend, ensuring secure and efficient transactions.
 
 ## Features
 
@@ -13,17 +13,17 @@ Welcome to cRik11, a revolutionary application where users can create teams for 
 
 ## Installation
 
-To use cRik11, follow these steps:
+To use crik11, follow these steps:
 
-1. Clone the repository from GitHub: `git clone https://github.com/ankit875/cRik11.git`
+1. Clone the repository from GitHub: `git clone https://github.com/ankit875/crik11.git`
 2. Install dependencies: `npm install`
 3. Run the application: `npm start`
 
 ## Usage
 
-1. **Sign Up/Login**: Users need to sign up or log in to their accounts to access cRik11.
+1. **Sign Up/Login**: Users need to sign up or log in to their accounts to access crik11.
 2. **Create Team**: Once logged in, users can create their batting teams by selecting players and assigning cryptocurrencies.
-3. **Deposit**: Users can deposit cryptocurrencies into their cRik11 account to fund their teams.
+3. **Deposit**: Users can deposit cryptocurrencies into their crik11 account to fund their teams.
 4. **Withdraw**: After matches, users can withdraw their winnings or remaining balance from their accounts.
 
 **Demo Credentials**:
@@ -39,7 +39,7 @@ To use cRik11, follow these steps:
 
 ## Contributing
 
-Contributions to cRik11 are welcome! To contribute:
+Contributions to crik11 are welcome! To contribute:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-branch-name`).
@@ -50,8 +50,8 @@ Contributions to cRik11 are welcome! To contribute:
 
 ## License
 
-cRik11 is licensed under the [MIT License](LICENSE).
+crik11 is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-Special thanks to the Mina Protocol team for providing the secure and efficient backend infrastructure for cRik11.
+Special thanks to the Mina Protocol team for providing the secure and efficient backend infrastructure for crik11.
