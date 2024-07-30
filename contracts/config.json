@@ -1,4 +1,14 @@
 {
   "version": 1,
-  "deployAliases": {}
+  "deployAliases": {
+    "crik11": {
+      "networkId": "testnet",
+      "url": "https://api.minascan.io/node/devnet/v1/graphql",
+      "keyPath": "keys/crik11.json",
+      "feepayerKeyPath": "/Users/ankit.agrawal/.cache/zkapp-cli/keys/testnet-fees.json",
+      "feepayerAlias": "testnet-fees",
+      "fee": "0.1",
+      "smartContract": "Add"
+    }
+  }
 }
