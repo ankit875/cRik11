@@ -26,14 +26,9 @@ To use crik11, follow these steps:
 3. **Deposit**: Users can deposit cryptocurrencies into their crik11 account to fund their teams.
 4. **Withdraw**: After matches, users can withdraw their winnings or remaining balance from their accounts.
 
-**Demo Credentials**:
-
-- Username: officialmintmania@gmail.com
-- Password: abcd@1234
-
 ## Technology Stack
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: NextJs, TypeScript
 - **Backend**: Mina Protocol
 - **Database**: Mina Protocol Contract Backend
 
