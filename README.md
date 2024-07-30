@@ -17,7 +17,7 @@ To use crik11, follow these steps:
 
 1. Clone the repository from GitHub: `git clone https://github.com/ankit875/crik11.git`
 2. Install dependencies: `npm install`
-3. Run the application: `npm start`
+3. Run the application: `npm run dev`
 
 ## Usage
 
